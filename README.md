@@ -19,7 +19,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Senior Software Engineer with 10+ years of experience** building production-grade software across **full-stack development, backend engineering, cloud infrastructure, DevOps, distributed systems, databases, AI, and system architecture**.
+I'm a **Senior Software Engineer with 5+ years of experience** building production-grade software across **full-stack development, backend engineering, cloud infrastructure, DevOps, distributed systems, databases, AI, and system architecture**.
 
 My strongest programming languages are **JavaScript, TypeScript, Go, and Python**, with additional experience across **Java, C#, Rust, Solidity, Dart**, and other modern technologies.
 
