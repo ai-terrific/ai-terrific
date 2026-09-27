@@ -281,9 +281,8 @@ I enjoy combining **AI with traditional software engineering** to create useful 
 
 <p align="center">
   <img
-    src="./assets/github-analytics.png"
+    src="https://streak-stats.demolab.com?user=ai-terrific&theme=transparent&hide_border=true"
     alt="GitHub Analytics"
-    width="850"
   />
 </p>
 
